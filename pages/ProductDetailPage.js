@@ -16,5 +16,6 @@ class ProductDetailPage {
       await this.continueShoppingButton.click();
     }
   }
-  module.exports = { ProductDetailPage };
+  //module.exports = { ProductDetailPage };
+  export default ProductDetailPage;
   
